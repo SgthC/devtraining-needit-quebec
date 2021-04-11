@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Automation Pipeline Command Transformer" max_length="40" name="command_has_transformer" sizeclass="1" type="collection"/>
+</database>
